@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section id="hero" className="hero">
       <div className="hero-bg">
-        <img src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1800&q=80"
+        <img src="shubhangi.jpg.jpeg"
           alt="Golden hour landscape" />
       </div>
       <div className="orb orb-1" />
