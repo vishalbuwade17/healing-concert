@@ -63,7 +63,7 @@ body::before{
   font-size:.68rem;
   letter-spacing:.3em;
   text-transform:uppercase;
-  color:var(--c-gold);
+  color:var(--c-white);
   margin-bottom:14px;
   opacity:.9;
 }
@@ -175,12 +175,12 @@ body::before{
 .nav-brand{
   font-family:var(--f-serif);
   font-size:1.15rem;
-  color:var(--c-gold);
+  color:var(--c-grey);
   letter-spacing:.06em;
   display:flex;align-items:center;gap:8px;
   flex-shrink:0;
 }
-.nav-brand .star{color:var(--c-gold);font-size:1.2rem}
+.nav-brand .star{color:var(--c-white);font-size:1.2rem}
 .nav-links{
   display:flex;gap:36px;
   list-style:none;align-items:center;
@@ -267,12 +267,12 @@ body::before{
   font-family:var(--f-serif);
   font-size:clamp(1rem,2.5vw,1.35rem);
   font-style:italic;
-  color:var(--c-gold);
+  color:var(--c-white);
   margin-bottom:14px;
 }
 .hero-tagline{
   font-size:clamp(1rem,2.2vw,1.3rem);
-  color:var(--c-gold2);
+  color:#ffffff;
   font-weight:300;
   letter-spacing:.04em;
   margin-bottom:28px;
