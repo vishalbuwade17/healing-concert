@@ -26,6 +26,14 @@ export default function Experience() {
             </div>
           ))}
         </div>
+
+        <div className="exp-visual reveal d3">
+          <h3 className="exp-visual-title">A Seated Concert for All Generation</h3>
+          <div className="exp-visual-img" >
+            <img src="/Seated.JPEG" alt="A Seated Concert for All Generation" />
+            <p class="note">*Image is for illustration purposes only and may vary depending on the venue.*</p>
+          </div>
+        </div>
       </div>
     </section>
   )

@@ -14,7 +14,7 @@ export default function Creator() {
           <div className="creator-ring">🌸</div>
           <p className="creator-role">Director &amp; Narrator</p>
           <h3 className="creator-name">Shubhangi Chouhan</h3>
-          <p className="creator-handle">@that_healing_energy</p>
+          <p className="creator-handle">Shubhangichouhan____</p>
           <p className="creator-quote">
             "I believe healing is not a destination — it is a direction.<br />
             And this concert is one step on that path."

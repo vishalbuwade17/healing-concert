@@ -12,9 +12,9 @@ export default function Hero() {
       <div className="orb orb-3" />
 
       <div className="hero-inner">
-        <span className="eyebrow">India's First Healing Concert &nbsp;·&nbsp; 3 – Aarambh</span>
+        <span className="eyebrow">India's First Healing Concert&nbsp;&nbsp;</span>
         <h1 className="hero-title">THE HEALING<br />CONCERT</h1>
-        <p className="hero-sub">India's First Healing Concert Experience</p>
+        <p className="hero-sub">The Healing Concert अध्याय : १ - Aarambh</p>
         <p className="hero-tagline">"Come as you are. Leave a little lighter."</p>
         <div className="hero-meta">
           <strong>12 April</strong>
