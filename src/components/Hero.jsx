@@ -17,7 +17,7 @@ export default function Hero() {
         <p className="hero-sub">The Healing Concert अध्याय : १ - Aarambh</p>
         <p className="hero-tagline">"Come as you are. Leave a little lighter."</p>
         <div className="hero-meta">
-          <strong>12 April</strong>
+          <strong>16 May</strong>
           <span className="hero-dot" />
           <strong>Indore, India</strong>
         </div>
